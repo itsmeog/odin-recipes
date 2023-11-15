@@ -1,3 +1,10 @@
 .recipeimg {
     border-radius: 15px;
 }
+.description {
+    background-color: lightcoral;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
